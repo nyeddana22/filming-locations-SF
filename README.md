@@ -31,3 +31,5 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
+
+Note: You may have to run the pinned cells in Observable Notebook to visualize a couple of the charts!
