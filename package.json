@@ -1,0 +1,14 @@
+{
+  "name": "@nyeddana/ecs272-hw1",
+  "main": "3aa275409ec62dcd@1721.js",
+  "version": "1721.0.0",
+  "homepage": "https://observablehq.com/@nyeddana/ecs272-hw1",
+  "author": {
+    "name": "Niharika Yeddanapudi",
+    "url": "https://observablehq.com/@nyeddana"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
